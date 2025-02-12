@@ -1,0 +1,19 @@
+{
+    "name": "m3futu/ht",
+    "description": "Habr Test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "M3futu\\Ht\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mefutu",
+            "email": "m3futu@yandex.ru"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
