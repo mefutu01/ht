@@ -7,6 +7,7 @@
 {"time":1738840459,"duration":312,"url":"https://habr.com/ru/feed/all"}{"time":1738840459,"duration":198,"url":"https://habr.com/ru/news/"}{"time":1738840460,"duration":236,"url":"https://habr.com/ru/news/"}{"url":"https://habr.com/ru/feed/all","time":1738840461,"duration":409}{"duration":590,"url":"https://habr.com/ru/feed/develop","time":1738840461}
 
 [Пример вывода программы. Необязательно в виде такой таблицы, главное - наглядно]
+```
  1 +------------+------------------------------+-------+-------+
  2 | 2025-02-03 | https://habr.com/ru/feed/all | 10214 | 371ms |
  3 |            | https://habr.com/ru/feed/    |  8192 | 713ms |
@@ -17,6 +18,7 @@
  8 |            | https://habr.com/ru/news/    |   501 | 608ms |
  9 +------------+------------------------------+-------+-------+
 
+```
 ## Для проверки результата необходимо
 
 1. установить зависимости composer
